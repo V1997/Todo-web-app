@@ -24,7 +24,7 @@ postgresql : sudo apt install postgresql postgresql-contrib
     vasu@vasu-VirtualBox:$ flask db migrate
     vasu@vasu-VirtualBox:$ flask db upgrade
 
-Now check tables are create or not.
+Now check tables are created or not.
 
 Now you are ready to do. 
 
