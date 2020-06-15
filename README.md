@@ -29,4 +29,4 @@ Now check tables are created or not.
 Now you are ready to do. 
 
 # author 
-    Vasu patel - a software developer @ with a demonstrated history of knowledge in software developement.
+    Designed and developed by vasu. This code is not copyrighted. Anybody who wants to use this code for any purpose, he can use it.
